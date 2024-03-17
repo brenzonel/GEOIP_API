@@ -1,0 +1,12 @@
+Geocoder
+pip install geocoder
+
+Folium
+pip install folium
+
+Flask
+pip install Flask
+pip install Flask-Cors
+
+run app
+flask --app nameoffile run
